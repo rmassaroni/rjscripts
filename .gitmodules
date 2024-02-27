@@ -1,3 +1,6 @@
 [submodule "gpush"]
 	path = gpush
 	url = https://github.com/rmassaroni/gpush
+[submodule "gscraper"]
+	path = gscraper
+	url = https://github.com/rmassaroni/gscraper
